@@ -1,4 +1,4 @@
-# [CalculadoraJS](https://calculadora-js-three.vercel.app)
+# [CalculadoraJS](https://shacalliitto.github.io/CalculadoraJS/)
 
 Calculadora feita em JS para estudos.
 
